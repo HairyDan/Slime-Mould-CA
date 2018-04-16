@@ -2,6 +2,7 @@
 # ignore bin
 .*
 bin/
+IMAGES/
 
 # Dont ignore .gitignore (this file)
 # This is just for verbosity, you can leave it out if
